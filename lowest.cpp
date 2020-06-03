@@ -16,4 +16,5 @@ main()
 		team=c3;
 	}
 	cout<<team<<endl;
+	cout<<"HAHA";
 }
